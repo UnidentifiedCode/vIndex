@@ -1,2 +1,2 @@
-# vIndex Discord Bot
-- Index/log everything.
+# Coutdown Discord Bot
+Death? There's a app for that!
